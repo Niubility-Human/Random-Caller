@@ -24,7 +24,7 @@ clock = pygame.time.Clock()
 pushing_mouse = {1:False ,2:False, 3:False}#按钮是否按动中
 tipsUsing = False
 textOftips = '''
-这是一个梁意森制作的随机点名器
+这是一个NiubilityHuman制作的随机点名器
 
 这个点名器从与它同级目录的\'names.txt\'中读取点名名单，每行一个名字
 
